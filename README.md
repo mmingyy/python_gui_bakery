@@ -4,7 +4,7 @@ implement a bakery program with python gui.
 
 # When I enter RIGHT SANDWICH and RIGHT CAKE
 customer A
-![jpg_1](./img/1.jpg)
+![jpg_1](./img/1.JPG)
 
 custormer B
 ![jpg_2](./img/2.jpg)
